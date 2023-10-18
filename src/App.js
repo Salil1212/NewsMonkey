@@ -106,4 +106,3 @@ const App = () => {
 };
 
 export default App;
-//MyAPI key: 74da5dfd9b244160a79da0da323ce46d
